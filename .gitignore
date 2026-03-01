@@ -1,0 +1,19 @@
+# Python-specific
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# R-specific
+.Rhistory
+.RData
+
+# Large Data (Optional - use if you want to keep data local only)
+data/
+output/*.png
+*.tsv
+*.csv
+*.pdf
+
+# Environments
+.env
+.venv/
